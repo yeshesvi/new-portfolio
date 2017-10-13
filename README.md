@@ -1,3 +1,4 @@
+<pre>
 +----+      +----+
 |     \ GO /     |
 ++  +  \  /  +  ++
@@ -7,7 +8,7 @@
 ++  ++  \/  ++  ++ 
 |    | BLUE |    |
 +----+      +----+
-
+</pre>
 
 Hi there! Welcome to My Portfolio Repository!
 
