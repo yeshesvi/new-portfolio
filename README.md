@@ -10,8 +10,8 @@
 +----+      +----+
 </pre>
 
-Hi there! Welcome to My Portfolio Repository!
+Hi there! Welcome to My Portfolio site!
 
-## You can clone under GPL
+You can clone under Creative Commons. Read the license.txt file for more information.
 
-Thanks to html5up.com
+
